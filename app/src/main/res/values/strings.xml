@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mega</string>
+    <string name="al_quran">Al Quran</string>
+    <string name="ayat">Ayat</string>
+    <string name="surat">Surat</string>
+    <string name="tafsir">Tafsir</string>
+    <string name="audio">Audio</string>
+    <string name="detail">Detil</string>
+</resources>
